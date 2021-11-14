@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-smartdriver-dev-13817-authRole",
+      "UnauthRoleArn": "arn:aws:iam::281967054583:role/amplify-smartdriver-dev-13817-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::281967054583:role/amplify-smartdriver-dev-13817-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-smartdriver-dev-13817-deployment",
+      "UnauthRoleName": "amplify-smartdriver-dev-13817-unauthRole",
+      "StackName": "amplify-smartdriver-dev-13817",
+      "StackId": "arn:aws:cloudformation:us-east-2:281967054583:stack/amplify-smartdriver-dev-13817/1f4df460-432b-11ec-b58f-0af2bdfff0cc",
+      "AmplifyAppId": "d1ec309da7a3gf"
+    },
+    "categories": {
+      "auth": {
+        "smartdriver0db59f3c": {}
+      }
+    }
+  }
+}
